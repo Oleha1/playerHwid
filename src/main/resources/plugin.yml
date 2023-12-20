@@ -1,0 +1,8 @@
+depend: [ProtocolLib]
+name: ph
+version: 1.0.0
+api-version: 1.7.10
+main: com.oleha.Main
+commands:
+  ph:
+    description: player HWID info
